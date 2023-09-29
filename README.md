@@ -32,8 +32,6 @@ Ensure you have Python installed on your system.
 No additional libraries are required as SQLite is part of the Python standard library.
 
 Usage:
-Clone the GitHub repository: git clone https://github.com/rifatblack/MLOpsTest.git
-Navigate to the project directory: cd MLOpsTest
 Run the Python script: python Tested for Task 2.py
 Important Details:
 
@@ -51,9 +49,6 @@ Installation:
 Ensure you have Python installed on your system.
 Install the requests library using pip: pip install requests
 Usage:
-
-Clone the GitHub repository: git clone https://github.com/rifatblack/MLOpsTest.git
-Navigate to the project directory: cd MLOpsTest
 Replace 'YOUR_GOOGLE_MAPS_API_KEY' with an actual Google Maps API key in the google_api_integration.py file.
 Run the Python script: python Tested for Task 3.py
 
