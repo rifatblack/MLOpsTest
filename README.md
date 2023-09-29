@@ -1,6 +1,6 @@
 # MLOpsTest
 
-Task 1: Creating a Neural Network for MNIST Classification
+#Task 1: Creating a Neural Network for MNIST Classification
 
 Capabilities:
 The code provides a simple neural network using TensorFlow for classifying images from the MNIST dataset.
@@ -21,7 +21,7 @@ The code uses TensorFlow and the MNIST dataset.
 The neural network architecture can be modified for experimentation.
 Training parameters (epochs, batch size) can be adjusted in the script.
 
-Task 2: Working with Databases
+#Task 2: Working with Databases
 
 Capabilities:
 The code creates an SQLite database and provides functions for adding, retrieving, updating, and deleting user data.
@@ -39,7 +39,7 @@ The script establishes a connection to an SQLite database (users.db).
 Users can be added, retrieved, updated, and deleted using the provided functions.
 
 
-Task 3: Integration with a Google API
+#Task 3: Integration with a Google API
 Capabilities:
 
 The code uses the Google Maps Geocoding API to retrieve latitude and longitude based on an address.
